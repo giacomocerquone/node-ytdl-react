@@ -4,4 +4,4 @@ This is a POC to prove the feasibility of porting node-ytdl inside the browser t
 
 To start the project give `yarn start` as for any other create-react-app projects.
 
-# Sadly youtube apis needs cors to be deactivated
+# Sadly youtube apis needs cors to be deactivated
